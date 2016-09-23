@@ -1,3 +1,3 @@
-# hello-world
-Hello World in Git!
-a little changes...
+# hello-world  
+Hello World in Git!  
+a little changes...  
